@@ -1,3 +1,12 @@
+# Random Quote Machine Notes
+
+Working to solve [freeCodeCampe Random Quote Machine task](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine).\
+See [here](https://codepen.io/freeCodeCamp/full/qRZeGZ) for example project.
+
+## Useful reference material
+
+- [React tutorials](https://www.freecodecamp.org/learn/front-end-libraries/#react)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
